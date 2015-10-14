@@ -1,6 +1,6 @@
 name: Avatar_Test
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.53084
 cta:
   domain: null
   bucket: null
@@ -14,8 +14,13 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
+  brandColors:
+    - '#000000'
+    - '#b50000'
+    - '#a56b6b'
+    - '#e8b2b2'
+    - '#3d3d3d'
+  brandStrength: 1
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
