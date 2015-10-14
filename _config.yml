@@ -1,6 +1,7 @@
 name: Avatar_Test
 favicon: null
 layout_spectrum: 0.53084
+typography_spectrum: 0.43833
 cta:
   domain: null
   bucket: null
@@ -21,9 +22,9 @@ color:
     - '#e8b2b2'
     - '#3d3d3d'
   brandStrength: 1
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.75
+  saturation: 0.9375
+  rhythmicContrast: 1
 purpose:
   - name: awareness
     item: null
